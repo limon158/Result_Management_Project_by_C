@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695033564 source:b:\semester-6\cse-208-oop-lab\resultmanagement\main.c
+	<stdio.h>
+	<stdlib.h>
+
